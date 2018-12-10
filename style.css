@@ -1,0 +1,19 @@
+/*Scrollspy - smooth scrolling*/
+body {
+    position: relative; 
+}
+#carousel {padding-top:50px;height:20%;color: #fff; background-color: #BBBBBB;} /*may have to tinker withb heights later*/
+#section1 {padding-top:50px;height:20%;color: #fff; background-color: #1E88E5;} 
+#section2 {padding-top:50px;height:20%;color: #fff; background-color: #673ab7;}
+#section3 {padding-top:50px;height:20%;color: #fff; background-color: #ff9800;}
+#section4 {padding-top:50px;height:20%;color: #fff; background-color: #00bcd4;}
+
+.content{
+    height: 2000px; /*change to "100%" later*/
+}
+.header{
+
+}
+.footer{
+    height:300px;
+}
